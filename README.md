@@ -219,6 +219,10 @@ btnExport.addActionListener(e -> {
 ![image](https://github.com/user-attachments/assets/ee67e181-1083-4fe4-a675-42a3f5ca0a2c)
 
 
+## Tampilan Data Dari Simpan (Eksport) .CSV
+![image](https://github.com/user-attachments/assets/1c8e234d-4e86-46bc-ad6b-c9b9e39a6976)
+
+
 ---
 ## Indikator Penilaian  
 
