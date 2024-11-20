@@ -242,6 +242,6 @@ btnExport.addActionListener(e -> {
 - **Nama**: Adrian Akhmad Firdaus  
 - **NPM**: 2210010491  
 - **Kelas**: 5A Reguler Pagi  
-- **Tugas**: Tugas 6 - Aplikasi Cek Cuaca  
+- **Tugas**: Latihan 3 - Aplikasi Cek Cuaca  
 - **Fakultas**: Fakultas Teknologi Informasi (FTI)  
 - **Universitas**: Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin  
